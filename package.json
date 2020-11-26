@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/tege3000/node-simple-blog#readme",
   "dependencies": {
+    "ejs": "^3.1.5",
     "express": "^4.17.1",
     "lodash": "^4.17.20",
     "nodemon": "^2.0.6"
